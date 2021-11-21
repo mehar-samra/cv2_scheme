@@ -23,8 +23,8 @@
     )
 )
 
-;;; show video
-(show video 10)
+;;; uncomment if you want to show video
+;;; (show video 10)
 
 ;;; show web camera
 (show webcam 100)
